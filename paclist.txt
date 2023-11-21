@@ -13,7 +13,7 @@ picom
 ttf-jetbrains-mono-nerd
 vim
 firefox
-code
+mousepad
 thunar
 scrot
 gvfs
